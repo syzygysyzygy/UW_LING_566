@@ -5,3 +5,5 @@
 - **Professor**: Emily Bender
 - **Textbook**: "Syntactic Theory a Formal Introduction" by Sag, Wasow, Bender, 2nd edition
   - Textbook link: https://annas-archive.org/md5/d6629d07eab025c75b72379328af31a5
+
+This repository contains homework assignments and notes for UW LING 566.
